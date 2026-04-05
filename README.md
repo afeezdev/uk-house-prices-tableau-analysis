@@ -1,7 +1,7 @@
 # UK House Prices Analysis Dashboard
 
 ## Project Overview
-This project analyses UK house price data to identify trends, regional differences, and factors affecting property prices.  
+This project analyses UK house price data to identify trends, regional differences, and factors affecting property prices from 2015 to 2025 .  
 The goal of this project is to demonstrate data analysis, data cleaning, and data visualization skills using Tableau, Python, and SQL.
 
 This project is part of my Data Analytics / Data Science portfolio.
@@ -22,10 +22,21 @@ What factors affect house prices in the UK, and how do prices change based on lo
 
 ---
 
-## Dataset Sources
+## 📦 Dataset Source
 - UK Land Registry – UK property price data
-- Office for National Statistics – housing statistics
-- Kaggle – cleaned datasets for analysis
+
+This project uses publicly available data from:
+
+:contentReference[oaicite:0]{index=0} – Price Paid Data  
+  https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
+
+## ⚠️ Data Availability
+
+Due to GitHub file size limitations, raw datasets are not included.
+
+# To reproduce this project:
+
+Download the dataset from the official source above  
 
 Data includes:
 - Price
@@ -128,3 +139,68 @@ GitHub Portfolio Project
 
 
 
+
+
+---
+
+## 📊 Key Analysis
+
+The project explores:
+
+- 📈 House price trends over time  
+- 🗺️ Regional price variations across the UK  
+- 🏘️ Property type distribution and impact on pricing  
+- 📉 Market changes during major economic periods  
+
+---
+
+## 📊 Tableau Dashboard
+
+The interactive dashboard includes:
+
+- Time-series trend analysis  
+- Regional heatmaps  
+- Property type comparisons  
+- Dynamic filters for exploration  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas, NumPy)  
+- SQL  
+- Tableau  
+- Git & GitHub  
+
+---
+
+## 📸 Dashboard Preview
+
+*(Add screenshots here from /images folder)*
+
+---
+
+## 🚀 Key Skills Demonstrated
+
+- Data cleaning & preprocessing  
+- Feature engineering  
+- Data visualisation  
+- Analytical storytelling  
+- Working with large real-world datasets  
+
+---
+
+## 📌 Future Improvements
+
+- Add machine learning model for price prediction  
+- Integrate affordability analysis using income data  
+- Automate data pipeline  
+
+---
+
+## 👤 Author
+
+**Afeez Abdulyekeen**  
+MSc Computer Science (Data Science)
+
+---
