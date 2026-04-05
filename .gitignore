@@ -1,0 +1,26 @@
+# Ignore raw datasets (too large for GitHub)
+data/raw/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large Tableau temp files
+*.hyper
+
+# Ignore logs
+*.log
+
+# Optional: ignore large CSV backups
+*.bak.csv
